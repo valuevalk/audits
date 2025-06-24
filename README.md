@@ -41,7 +41,7 @@ Launched https://audit-rewards.xyz/, a useful tool for calculating rewards in pu
 | 7.  | Jan 2025 | [Infrared](https://cantina.xyz/competitions/ac5f64e6-3bf2-4269-bbb0-4bcd70425a1d) | 1H, 1M | Berachain Liq Staking | Cantina | Top 20 |
 | 6.  | Jan 2025 | [Story Protocol](https://cantina.xyz/code/0561defa-eeb2-4a74-8884-5d7a873afa58/README.md) | 2 М | L1 Chain for IP | Cantina | Тop 25 / 1 Solo Med / |
 | 5.  | Dec 2024 | [Autonomint](https://audits.sherlock.xyz/contests/569?filter=questions) | 14H 13M | Stablecoin | Sherlock | 🥉 place, 27 H/M issues found |
-| 4.  | Oct 2024 | [Optimism Java](https://cantina.xyz/competitions/cb538ed2-6770-4646-a32b-610b62d9a34c)  | 8H, 12M | Node/Infra | Cantina | 🥈 12 solo issues |
+| 4.  | Oct 2024 | [Optimism Java](https://cantina.xyz/competitions/cb538ed2-6770-4646-a32b-610b62d9a34c)  | 8H, 12M | Node/Infra | Cantina | 🥈 place / 12 solo issues / |
 | 3.  | Oct 2024 | [Predict.fun](https://audits.sherlock.xyz/contests/561) | 1H, 1L | Yield | Prediction Market | 🥉 place |
 | 2. | August 2024 | [Phi](https://code4rena.com/audits/2024-08-phi) |  2H, 1M | NFT | Code4rena| Top 12 |
 | 1. | August 2024 | [Sentiment](https://audits.sherlock.xyz/contests/349) | 1H, 1M | Lending | Code4rena | 🥈 place / 1 Solo Med + complex low-dup High / |
