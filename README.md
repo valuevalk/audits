@@ -31,8 +31,8 @@ Launched https://audit-rewards.xyz/, a useful tool for calculating rewards in pu
 
 | № | Date | Protocol |  Findings | Type | Competition Platform | More Details |
 |--------|----------|------|-----------|------|------|------|
-| 14. | April 2025 | [Mezo Chain](https://cantina.xyz/competitions/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d) | SOON | CosmosSDK & Off-chain Logic | Cantina | SOON |
-| 13. | April 2025 | [ZKP2P](https://audits.sherlock.xyz/contests/805?filter=questions) | 1M, 1H | P2P On/Off Ramp | Sherlock | 🥉 place + Very creative **live** solo Crit with the off-chain infra, it was deemed OOS |
+| 14. | May 2025 | [ZKP2P](https://audits.sherlock.xyz/contests/805?filter=questions) | 1M, 1H | P2P On/Off Ramp | Sherlock | 🥉 place + Very creative **live** solo Crit with the off-chain infra, it was deemed OOS |
+| 13. | April 2025 | [Mezo Chain](https://cantina.xyz/competitions/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d) | SOON | CosmosSDK & Off-chain Logic | Cantina | SOON |
 | 12. | March 2025 | [Optimism Interop Portal](https://cantina.xyz/competitions/44b385bf-e51a-4e6c-b3a8-adbbe24d16e1) | 2M | Op Stack  | Cantina | 🥇 place |
 | 11. | Feb 2025 | [ThorWallet](https://code4rena.com/reports/2025-02-thorwallet) | 1H | Bridging |  Code4rena | 🥉 place |
 | 10.  | Feb 2025 | [Babylon Chain](https://audits.sherlock.xyz/contests/677?filter=questions) | 1M | CosmosSDK & Off-chain Logic | Sherlock |🥉 place / 1 Solo Med / |
