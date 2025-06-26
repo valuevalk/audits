@@ -23,7 +23,7 @@ Let's talk. DM me anytime to discuss anything Web3 Security.
 
 # Web3 Security Audits
 
-Over **80+ High/Medium Findings** discovered. In projects with all kinds of tech-stack: **Solidity, Go, Java, Chialisp & etc.**
+Over **80+ High/Medium Findings** discovered. In projects with all kinds of tech-stack: **Solidity, Go, Java & etc.**
 
 ### Side projects: 
 Launched https://audit-rewards.xyz/, a useful tool for calculating rewards in public contests on the most popular platforms.
