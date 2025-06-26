@@ -2,16 +2,24 @@
 
 Over **2yrs+** professional experience in Web3. 
 
-**2024 - Present**: **Independent Web3 Security Researcher.** Achieved 10+ top-three placements and earned over **$75k+** of rewards from public Web3 security contests.
-Knowledgable with Cross-chain integrations, Berachain, HyperLiquid, Uniswap, Cosmos, L1/L2s, re-staking protocols, prediction market protocols, stablecoins, Optimism OP-stack & others. 
+**2024 - Present**: **Independent Web3 Security Researcher.** Achieved 10+ top-three placements and earned over **$85k+** of rewards from public Web3 security contests.
+I've secured all kinds of projects. Cross-chain integrations, Berachain, HyperLiquid, Uniswap, Cosmos, L1/L2s, Re-staking, Lending, Prediction markets, Stablecoins, OP-stack & many others. 
 
 **2023 - 2024**: **Senior Engineer @ Limechain/Hedera**, contributing directly to the development of the execution client for Hedera L1 ($10B mcap).
 
-## 📫 Let’s Talk and secure your Protocol
-Contact me for private audit engagements or any question regarding Web3 Security.
+## Solo Audits - The smartest security decision for Web3 Teams
+
+The right solo auditor **cuts costs** while helping you better secure your protocol.
+
+- **Cost-efficient** – pay for expertise, not corporate overhead.  
+- **Flexible** – scope and timeline match your roadmap.  
+- **Transparent** – one auditor, clear accountability, publicly verifiable credibility.  
+
+An early solo review shows you exactly where to focus next for properly securing your project, so you **never overspend money** on audits.
+
+Let's talk. DM me anytime, to discuss anything Web3 Security.
 - **Telegram:** [@valkvalue](https://t.me/valkvalue)  
 - **X (Twitter):** [@valuevalk](https://x.com/valuevalk)  
-
 
 # Web3 Security Audits
 
