@@ -35,8 +35,6 @@ Launched https://audit-rewards.xyz/, a useful tool for calculating rewards in pu
 | 1. | May 2025 | [Aegis.im](https://audits.sherlock.xyz/contests/799?filter=questions) | 1H, 2M | Bitcoin-backed Stablecoin | Sherlock | Resolved 20 Escalations and judged 500+ Submissions with the HoJ. 
 ### Public Contests Achievements  
 
-![img](https://i.imgur.com/64ke9aG.png)
-
 | № | Date | Protocol |  Findings | Type | Competition Platform | More Details |
 |--------|----------|------|-----------|------|------|------|
 | 14. | May 2025 | [ZKP2P](https://audits.sherlock.xyz/contests/805?filter=questions) | 1M, 1H | P2P On/Off Ramp | Sherlock | 🥉 place + Very creative **live** solo Crit with the off-chain infra, it was deemed OOS |
