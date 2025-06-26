@@ -7,7 +7,7 @@ I've secured all kinds of projects. Cross-chain integrations, Berachain, HyperLi
 
 **2023 - 2024**: **Senior Engineer @ Limechain/Hedera**, contributing directly to the development of the execution client for Hedera L1 ($10B mcap).
 
-## Solo Audits - The smartest security decision for Web3 Teams
+## Solo Audits
 
 The right solo auditor **cuts costs** while helping you better secure your protocol.
 
