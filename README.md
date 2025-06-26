@@ -17,7 +17,7 @@ The right solo auditor **cuts costs** while helping you better secure your proto
 
 An early solo review shows you exactly where to focus next for properly securing your project, so you **never overspend money** on audits.
 
-Let's talk. DM me anytime, to discuss anything Web3 Security.
+Let's talk. DM me anytime to discuss anything Web3 Security.
 - **Telegram:** [@valkvalue](https://t.me/valkvalue)  
 - **X (Twitter):** [@valuevalk](https://x.com/valuevalk)  
 
