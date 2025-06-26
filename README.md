@@ -3,7 +3,7 @@
 Over **2yrs+** professional experience in Web3. 
 
 **2024 - Present**: **Independent Web3 Security Researcher.** Achieved 10+ top-three placements and earned over **$95k+** of rewards from public Web3 security contests.
-I've secured all kinds of projects. Cross-chain integrations, Berachain, HyperLiquid, Uniswap, Cosmos, L1/L2s, Re-staking, Lending, Prediction markets, Stablecoins, OP-stack & many others. 
+I've secured all kinds of projects. Cross-chain integrations, Berachain, HyperLiquid, Uniswap, CosmosSDK, L1/L2s, Re-staking, Lending, Prediction markets, Stablecoins, OP-stack & many others. 
 
 **2023 - 2024**: **Senior Engineer @ Limechain/Hedera**, contributing directly to the development of the execution client for Hedera L1 ($10B mcap).
 
