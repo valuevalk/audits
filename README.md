@@ -5,19 +5,19 @@ Over **2yrs+** professional experience in Web3.
 **2024 - Present**: **Independent Web3 Security Researcher.** Achieved 10+ top-three placements and earned over **$100k+** of rewards from public Web3 security contests and BB.
 I've secured all kinds of projects. Cross-chain integrations, Berachain, HyperLiquid, Uniswap, CosmosSDK, L1/L2s, Re-staking, Lending, Prediction markets, Stablecoins, OP-stack & many others. 
 
-**2023 - 2024**: **Senior Engineer @ Limechain/Hedera**, contributing directly to the development of the execution client for Hedera L1 ($10B mcap).
+**2023 - 2024**: **Senior Engineer @ Limechain/Hedera**, working directly on the development of the execution client for Hedera L1 ($10B mcap).
 
-## Solo Audits - One of the best investments for Web3 Teams
+## Solo Audits - For Web3 Teams
 
-The right solo auditor **cuts costs** while helping you better secure your protocol.
+The **right** solo *auditor* **cuts costs** while helping you secure your protocol.
 
 - **Cost-efficient** – pay for expertise, not corporate overhead.  
-- **Flexible** – scope and timeline match your roadmap.  
+- **Niche Expertise** – I’ve audited projects across different web3 domains and only take work where I can add real value.
 - **Transparent** – one auditor, clear accountability, publicly verifiable credibility.  
 
-An early solo review shows you exactly where to focus next for properly securing your project, so you **never overspend money** on audits.
+A solo security review, especially early on, before further team audits can help maximize ROI and save you $$$$$.
 
-Let's talk. DM me anytime to discuss anything Web3 Security.
+Let's talk. Reach out to me anytime and see whether a **Solo Audit** is the **right fit** for your project.
 - **Telegram:** [@valkvalue](https://t.me/valkvalue)  
 - **X (Twitter):** [@valuevalk](https://x.com/valuevalk)  
 
