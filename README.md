@@ -23,7 +23,7 @@ Let's talk. Reach out to me anytime and see whether a **Solo Audit** is the **ri
 
 # Web3 Security Audits
 
-Over **80+ High/Medium Findings** discovered, of which **20H/M** were solo/unique. In projects with all kinds of tech-stack: **Solidity, Go, Java & etc.**
+Over **80+ High/Medium Findings** discovered, of which **20H/M** were solo/unique. In projects with all kinds of tech-stack: **Solidity/EVM, Go and even Java**
 
 ### Side projects: 
 Launched https://audit-rewards.xyz/, a useful tool for calculating rewards in public contests on the most popular platforms.
