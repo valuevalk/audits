@@ -15,7 +15,7 @@ The **right** solo *auditor* **cuts costs** while helping you secure your protoc
 - **Niche Expertise** – I’ve audited projects across different web3 domains and only take work where I can add real value.
 - **Transparent** – one auditor, clear accountability, publicly verifiable credibility.  
 
-A solo security review, especially early on, before further team audits can help maximize ROI and save you $$$$$.
+A solo security review, especially early on, before further audits can help maximize ROI and save you $$$$$.
 
 Let's talk. Reach out to me anytime and see whether a **Solo Audit** is the **right fit** for your project.
 - **Telegram:** [@valkvalue](https://t.me/valkvalue)  
