@@ -18,7 +18,7 @@ The **right** solo auditor cuts costs while helping you secure your protocol.
 A solo security review, especially early on, before further audits or as a last cleanup audit can help maximize ROI and save you $$$$$.
 
 Reach out to me anytime and see whether a **Solo Audit** is the **right fit** for your project.
-- **Telegram:** [@valkvalue](https://t.me/valkvalue)  
+- **Telegram:** [@valkvalue](https://t.me/valuevalk)  
 - **X (Twitter):** [@valuevalk](https://x.com/valuevalk)  
 
 # Web3 Security Audits
