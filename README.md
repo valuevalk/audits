@@ -28,6 +28,9 @@ Over **80+ High/Medium Findings** discovered, of which **20H/M** were solo/uniqu
 ### Side projects: 
 Launched https://audit-rewards.xyz/, a useful tool for calculating rewards in public contests on the most popular platforms.
 
+### Team/Collab Audits
+I've worked and continue to actively work with reputable web3 security companies like Zenith and Certora for collaborative private audits, including for Tier 1 protocols.
+
 ### Lead Judge ( in public security contests )
 
 | № | Date | Protocol |  Findings | Type | Competition Platform | More Details |
