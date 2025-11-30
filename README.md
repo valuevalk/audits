@@ -21,7 +21,7 @@ Reach out to me anytime and see whether a **Solo Audit** is the **right fit** fo
 - **Telegram:** [@valkvalue](https://t.me/valuevalk)  
 - **X (Twitter):** [@valuevalk](https://x.com/valuevalk)  
 
-# Web3 Security Audits
+# Web3 Security Audits Portfolio
 
 Over **80+ High/Medium Findings** discovered, of which **20H/M** were solo/unique. In projects with all kinds of tech-stack: **Solidity/EVM, Go and even Java**
 
