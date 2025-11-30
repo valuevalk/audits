@@ -25,9 +25,6 @@ Reach out to me anytime and see whether a **Solo Audit** is the **right fit** fo
 
 Over **80+ High/Medium Findings** discovered, of which **20H/M** were solo/unique. In projects with all kinds of tech-stack: **Solidity/EVM, Go and even Java**
 
-### Side projects: 
-Launched https://audit-rewards.xyz/, a useful tool for calculating rewards in public contests on the most popular platforms.
-
 ### Team/Collab Audits
 I've worked and continue to actively work with reputable web3 security companies like Zenith and Certora for collaborative private audits, including for Tier 1 protocols.
 
@@ -56,5 +53,8 @@ I've worked and continue to actively work with reputable web3 security companies
 | 1. | August 2024 | [Sentiment](https://audits.sherlock.xyz/contests/349) | 1H, 1M | Lending | Code4rena | 🥈 place / 1 Solo Med + complex low-dup High / |
 
 Reference each of the above competitions from Sherlock profile: https://audits.sherlock.xyz/watson/valuevalk
+
+### Side projects: 
+Launched https://audit-rewards.xyz/, a useful tool for calculating rewards in public contests on the most popular platforms.
 
 Cantina profile: https://cantina.xyz/u/valkvalue 
