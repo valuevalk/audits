@@ -37,7 +37,7 @@ I've worked and continue to actively work with reputable web3 security companies
 
 | № | Date | Protocol |  Findings | Type | Competition Platform | More Details |
 |--------|----------|------|-----------|------|------|------|
-| 16. | May 2025 | [Ethereum Fusaka](https://audits.sherlock.xyz/contests/1140) | - | P2P On/Off Ramp | Sherlock | 6th place, over $20k+ payout |
+| 16. | Sept-Oct 2025 | [Ethereum Fusaka](https://audits.sherlock.xyz/contests/1140) | - | P2P On/Off Ramp | Sherlock | 6th place, over $20k+ payout |
 | 15. | July 2025 | [SuccintNetwork](https://cantina.xyz/competitions/bd882748-077e-4e55-853f-f8df70109dbb) | 4M | Marketplace for ZKproofs | Sherlock | 🥇 place 1 solo M |
 | 14. | May 2025 | [ZKP2P](https://audits.sherlock.xyz/contests/805?filter=questions) | 1M, 1H | P2P On/Off Ramp | Sherlock | 🥉 place + Very creative **live** solo Crit with the off-chain infra, it was OOS for the scope |
 | 13. | April 2025 | [Mezo Chain](https://cantina.xyz/competitions/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d) | 2H, 3M | CosmosSDK | Cantina | 🥇 place 1 solo H, 3 solo M |
